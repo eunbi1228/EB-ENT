@@ -1,8 +1,8 @@
 ## EB-ENT WEB DESIGN PROJECT
 
 UX 와이어프레임, 정보구조도, 스토리보드, 프로토타입<br>
-UI 시안디자인, 스타일가이드<br>
-전체 UX/UI디자인부터 퍼블리싱까지 직접 작업한 프로젝트입니다.
+UI 시안디자인, 스타일가이드<br><br>
+전체 UX/UI디자인부터 퍼블리싱까지 엔터테인먼트를 주제로 자체제작한 프로젝트입니다.
 
 <hr>
 TYPE : EB Entertainment 반응형 웹 (DeskTop 1920, Tablet 768, Mobile 360) <br>

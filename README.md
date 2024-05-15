@@ -12,5 +12,5 @@ TOOL : Photoshop / HTML5 / CSS3 / javascript / Github / Oven<br><br>
 
 
 [EB-ENT 바로가기](https://eunbi1228.github.io/EB-ENT/index.html)<br><br>
-[EB-ENT 와이어프레임 바로가기](https://ovenapp.io/view/qPL0kp7UeK3vzIZpH6Mg5PRxwxMfU3iF/MNrEs)
+[EB-ENT 와이어프레임 바로가기](https://ovenapp.io/view/qPL0kp7UeK3vzIZpH6Mg5PRxwxMfU3iF/MNrEs)<br>
 [EB-ENT 프로토타입 바로가기](https://ovenapp.io/view/xj5QAiWnYpIGteFeKEe1GuxX5gdKD2z9/bDV3S)

@@ -8,7 +8,7 @@ UI 시안디자인, 스타일가이드<br><br>
 TYPE : EB Entertainment 반응형 웹 (DeskTop 1920, Tablet 768, Mobile 360) <br>
 PAGE : INDEX, SUB*5 (6페이지)<br>
 PERIOD : n시간, 디자인+퍼블리싱 개인 100% 작업<br>
-TOOL : Photoshop / HTML5 / CSS3 / javascript / Github / Oven<br><br>
+TOOL : Photoshop / HTML5 / CSS3 / javascript / Github / KAKAO Oven<br><br>
 
 
 [EB-ENT 바로가기](https://eunbi1228.github.io/EB-ENT/index.html)<br><br>

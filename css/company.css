@@ -1,0 +1,14 @@
+@charset 'utf-8';
+
+.sec::before{content:''; display:block; width:1200px; height:2px; margin:0 auto; background:#000; margin-bottom:63px;}
+.sec .container{position:relative; width:951px; margin:0 auto;}
+.location{margin-bottom:15px; font-size:16px;}
+.local-nav{display:flex; width:325px; justify-content:space-between; margin-bottom:63px;}
+.local-nav li:first-child{font-weight:700;}
+.sec-txt h2{font-weight:700; font-size:35px; margin-bottom:31px;}
+.company-art{display:flex; margin-bottom:189px;}
+.logo-art{margin-bottom:189px;}
+.company-art p{width:311px; font-size:16px; margin-top:31px; line-height:25px;}
+.logo-art p{width:482px; font-size:16px; margin-top:31px; line-height:25px;}
+.img-box-company img{width:609px; margin-right:31px;}
+.img-box-logo img{width:406px; position:absolute; right:0;}

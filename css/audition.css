@@ -1,0 +1,16 @@
+@charset 'utf-8';
+
+.sec::before{content:''; display:block; width:1200px; height:2px; margin:0 auto; background:#000; margin-bottom:63px;}
+.sec .container{position:relative; width:951px; margin:0 auto;}
+.location{margin-bottom:15px; font-size:16px;}
+.local-nav{display:flex; width:144px; justify-content:space-between; margin-bottom:63px;}
+.local-nav li:first-child{font-weight:700;}
+.sec-txt h2{display:flex; align-items:center;}
+.sec-txt h2 img{width:30px; margin-bottom:31px; margin-right:13px;}
+.sec-txt h2 span{font-weight:700; font-size:35px; margin-bottom:31px; margin-left:0;}
+.sec-txt strong{font-weight:700; margin-right:11px;}
+.sec-txt span{margin-left:51px;}
+.sec-txt .span01{margin-left:77px;}
+.sec-txt p{line-height:26px;}
+.sec-txt button{width:110px; height:34px; background:#444; color:#fff; border-radius:5px; font-family:'Pretendard-M'; font-weight:500; 
+    font-size:19px; margin-bottom:63px;}

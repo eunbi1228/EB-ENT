@@ -1,0 +1,15 @@
+@charset 'utf-8';
+
+.sec::before{content:''; display:block; width:1200px; height:2px; margin:0 auto; background:#000; margin-bottom:63px;}
+.sec .container{position:relative; width:951px; margin:0 auto;}
+.location{margin-bottom:15px; font-size:16px;}
+.local-nav{margin-bottom:63px;}
+.local-nav li:first-child{font-weight:700;}
+.sec-txt h2{display:flex; align-items:center;}
+.sec-txt h2 img{width:34px; margin-bottom:63px; margin-right:13px;}
+.sec-txt h2 span{font-weight:700; font-size:35px; margin-bottom:63px;}
+.square .img-box{position:relative; margin-bottom:189px;}
+.square button{display:flex; width:120px; height:26px; justify-content:center; align-items:center; border:none; border-radius:13px;
+    background:#fb8e8e; position:absolute; left:415px; top:558px; cursor:pointer;}
+.square button p{font-family:'Berlin-Sans-FB'; color:#000; font-size:18px; padding-right:5px;}
+.square svg{width:10px; fill:#000; padding-top:3px;}

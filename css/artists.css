@@ -1,0 +1,16 @@
+@charset 'utf-8';
+
+.sec::before{content:''; display:block; width:1200px; height:2px; margin:0 auto; background:#000; margin-bottom:63px;}
+.sec .container{position:relative; width:951px; margin:0 auto;}
+.location{margin-bottom:15px; font-size:16px;}
+.local-nav{display:flex; width:124px; justify-content:space-between; margin-bottom:63px;}
+.local-nav li:first-child{font-weight:700;}
+.sec-txt h2{display:flex; align-items:center;}
+.sec-txt h2 span{font-weight:700; font-size:35px; margin-bottom:63px;}
+.sec-txt h2 img{width:30px; margin-bottom:63px; margin-right:13px;}
+.sec-txt article img{width:268px; margin-bottom:18px;}
+.sec-art{display:flex; width:1026px; flex-flow:row wrap;}
+.sec-art article{margin-right:74px;}
+.sec-art article p{width:153px; height:30px; border-radius:15px; background:#000; display:flex; justify-content:center; align-items:center;
+    margin-left:58px; margin-bottom:50px;}
+.sec-art article p span{color:#fff;}

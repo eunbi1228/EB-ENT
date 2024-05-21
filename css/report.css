@@ -1,0 +1,13 @@
+@charset 'utf-8';
+
+.sec::before{content:''; display:block; width:1200px; height:2px; margin:0 auto; background:#000; margin-bottom:63px;}
+.sec .container{position:relative; width:951px; margin:0 auto;}
+.location{margin-bottom:15px; font-size:16px;}
+.local-nav{display:flex; width:201px; justify-content:space-between; margin-bottom:63px;}
+.local-nav li:first-child{font-weight:700;}
+.sec-txt h2{display:flex; align-items:center;}
+.sec-txt h2 img{width:25px; margin-bottom:63px; margin-right:13px;}
+.sec-txt h2 span{font-weight:700; font-size:35px; margin-bottom:63px;}
+.sec-art .img-box{width:440px; margin-right:68px; margin-bottom:19px;}
+.sec-art{width:1016px; display:flex; flex-flow:row wrap;}
+.sec-art p{margin-bottom:63px; text-align:center; margin-right:68px; line-height:24px;}

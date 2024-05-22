@@ -11,7 +11,7 @@ PERIOD : 2주, 디자인+퍼블리싱 개인 100% 작업<br>
 TOOL : Photoshop / HTML5 / CSS3 / javascript / Github / KAKAO Oven<br><br>
 
 
-[EB-ENT 바로가기](http://github.com/eunbi1228/EB-ENT/index.html)<br><br>
+[EB-ENT 바로가기](https://github.com/eunbi1228/EB-ENT/blob/main/index.html)<br><br>
 [EB-ENT 와이어프레임 바로가기](https://ovenapp.io/view/qPL0kp7UeK3vzIZpH6Mg5PRxwxMfU3iF/MNrEs)<br>
 [EB-ENT 프로토타입 바로가기](https://ovenapp.io/view/xj5QAiWnYpIGteFeKEe1GuxX5gdKD2z9/bDV3S)<br>
 [EB-ENT 시안디자인](https://github.com/eunbi1228/EB-ENT/tree/main/photoshop)<br>
